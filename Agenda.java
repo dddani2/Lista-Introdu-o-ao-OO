@@ -13,12 +13,3 @@ public class Agenda {
     String contato;
     
 }
-
-public class Contatos {
-    String nome;
-    String telFixo;
-    String telCelular;
-    String endereco;
-    String aniversario;
-    
-}
